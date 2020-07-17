@@ -1,0 +1,1 @@
+Hello world! This is my first project as part of the Odin Project web development course. In this project I will recreate the Google homepage.

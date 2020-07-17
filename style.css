@@ -1,0 +1,54 @@
+header, footer {
+    overflow: hidden;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.navbar-left, .footer-left {
+    float: left;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar-right, .footer-right {
+    float: right;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.googleLogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchBox{
+    width: 25%;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.searchButtons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    margin: 10px;
+}
+
+#logo-search {
+    margin-top: 5%;
+}
